@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Twinkal Pedhadiya
 
-🎓 Computer Engineering Student
+🎓 Information Technology Student
 
 💻 Passionate about Backend Development, Flutter, and Data Structures & Algorithms
 
