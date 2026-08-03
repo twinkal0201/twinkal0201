@@ -31,16 +31,9 @@
 
 * 🔐 **Authentication System**: Secure user authentication using JWT and Node.js/Express.
 * 📝 **Notes Management Application**: CRUD-enabled app for organizing daily notes.
-* 📰 **Blog/Post Management System**: Dynamic platform for creating, updating, and managing posts.
 * 💱 **Flutter Currency Converter**: Mobile utility app for real-time currency conversion.
-* 🤖 **AI-Based Health Chatbot**: Intelligent assistant leveraging machine learning fundamentals for health-related queries.
-
+* 🤖 **Cardio70**: Machine learning fundamentals for a model using health-related data.
+* 💰 **Expense Manager System**: Application to track, manage, and analyze daily expenses and budgets.
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TwinkalPedhadiya&show_icons=true&theme=radical" alt="Twinkal's GitHub Stats" />
-</p>
 
 ⭐ *Always eager to learn, build, and contribute to impactful projects!*
