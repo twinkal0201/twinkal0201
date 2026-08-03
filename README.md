@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Twinkal Pedhadiya
+# Hi there 👋, I'm Tinkal Pedhadiya
 
 🎓 **Information Technology Student** 
 
